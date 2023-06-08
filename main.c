@@ -33,6 +33,7 @@ int main()
             break;
         default:
             printf("Operador invalido");
+            break;
 
     }
     return 0;
