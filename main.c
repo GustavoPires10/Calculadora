@@ -6,10 +6,10 @@ int main()
     float v1=0,v2=0,r=0;
     char op="";
 
-    printf("Insira o primeiro numero \n");
-    scanf("%f", &v1);
     printf("Insira o operador desejado \n");
     scanf("%c", &op);
+    printf("Insira o primeiro numero \n");
+    scanf("%f", &v1);
     printf("Insira o segundo numero \n");
     scanf("%f", &v2);
 
